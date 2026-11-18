@@ -1,4 +1,4 @@
-module github.com/baldwinsung/SimpleCiscoTUI
+module github.com/baldwinsung/cisco-tui
 
 go 1.24.0
 

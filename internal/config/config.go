@@ -27,7 +27,7 @@ import (
 
 	"github.com/BurntSushi/toml"
 
-	"github.com/baldwinsung/SimpleCiscoTUI/internal/cisco"
+	"github.com/baldwinsung/cisco-tui/internal/cisco"
 )
 
 // ConfigEnv is the environment variable that overrides the config search path.

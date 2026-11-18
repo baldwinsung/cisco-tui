@@ -43,8 +43,8 @@ IOS commands and the device's reply in the side log.
 Requires Go 1.24+ and the `ssh` client on your `PATH`.
 
 ```sh
-git clone https://github.com/baldwinsung/SimpleCiscoTUI.git
-cd SimpleCiscoTUI
+git clone https://github.com/baldwinsung/cisco-tui.git
+cd cisco-tui
 scripts/run.sh
 ```
 

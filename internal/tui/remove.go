@@ -6,7 +6,7 @@ import (
 	"github.com/gdamore/tcell/v2"
 	"github.com/rivo/tview"
 
-	"github.com/baldwinsung/SimpleCiscoTUI/internal/cisco"
+	"github.com/baldwinsung/cisco-tui/internal/cisco"
 )
 
 // RemoveAclScreen removes an ACL from an interface.

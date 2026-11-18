@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/baldwinsung/SimpleCiscoTUI/internal/cisco"
+	"github.com/baldwinsung/cisco-tui/internal/cisco"
 )
 
 func contains(list []string, want string) bool {

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/baldwinsung/SimpleCiscoTUI/internal/tui"
+	"github.com/baldwinsung/cisco-tui/internal/tui"
 )
 
 func main() {

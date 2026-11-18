@@ -7,8 +7,8 @@ import (
 
 	"github.com/rivo/tview"
 
-	"github.com/baldwinsung/SimpleCiscoTUI/internal/cisco"
-	"github.com/baldwinsung/SimpleCiscoTUI/internal/config"
+	"github.com/baldwinsung/cisco-tui/internal/cisco"
+	"github.com/baldwinsung/cisco-tui/internal/config"
 )
 
 const (
